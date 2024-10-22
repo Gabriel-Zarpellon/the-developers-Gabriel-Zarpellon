@@ -6,6 +6,6 @@ import { RouterLink } from '@angular/router';
   standalone: true,
   imports: [RouterLink],
   templateUrl: './ctasection.component.html',
-  styleUrl: './ctasection.component.css',
+  styleUrl: './ctasection.component.scss',
 })
 export class CtasectionComponent {}
