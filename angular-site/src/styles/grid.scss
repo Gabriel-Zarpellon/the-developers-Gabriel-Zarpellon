@@ -1,0 +1,26 @@
+.section-white {
+  background-color: var(--color-white);
+}
+
+.section-black {
+  background-color: var(--color-black);
+}
+
+.section-blue {
+  background-color: var(--color-blue);
+}
+
+.section-gray {
+  background-color: var(--color-gray);
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1240px;
+}
+
+.container.small {
+  max-width: 520px;
+}
