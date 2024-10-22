@@ -7,7 +7,7 @@ import { DevelopercardComponent } from './developercard/developercard.component'
   standalone: true,
   imports: [CommonModule, DevelopercardComponent],
   templateUrl: './developerssection.component.html',
-  styleUrl: './developerssection.component.css',
+  styleUrl: './developerssection.component.scss',
 })
 export class DeveloperssectionComponent {
   developerList = [

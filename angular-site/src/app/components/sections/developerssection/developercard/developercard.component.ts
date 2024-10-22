@@ -11,7 +11,7 @@ interface iDeveloper {
   standalone: true,
   imports: [],
   templateUrl: './developercard.component.html',
-  styleUrl: './developercard.component.css',
+  styleUrl: './developercard.component.scss',
 })
 export class DevelopercardComponent {
   @Input() developer!: iDeveloper;
